@@ -5,3 +5,5 @@ Open up XAMPP Control Panel and start "Apache" and "MySQL",Go to "localhost/phpm
 ![interface frndz](https://user-images.githubusercontent.com/113242497/189484444-ef97f1ce-197a-4da0-8f46-1e9dc39b8657.PNG)
 
 ![mssg frndz](https://user-images.githubusercontent.com/113242497/189484500-5c1c2d29-b643-4081-9d51-62c0b739bf2b.PNG)
+
+![Status upld frndz](https://user-images.githubusercontent.com/113242497/189484555-7302a432-898b-403e-8bed-7950b24b0fe6.PNG)
